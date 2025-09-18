@@ -1,2 +1,2 @@
-# 2180Lab1
-Hello world
+# INFO2180 Lab 1 
+This is Lab 1 for Britney Hawthorne  
